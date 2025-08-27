@@ -1,4 +1,4 @@
-<div allign="center> 
+<div allign="center>  test </div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sammy-algharazi-386493332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sainfo740@gmail.com) 
 
@@ -9,7 +9,6 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SamWammy&theme=dark&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 <br/>
 
-</div>
 
 
 ![](https://github-profile-trophy.vercel.app/?username=SamWammy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
