@@ -47,5 +47,4 @@
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SamWammy&border_radius=5&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=SamWammy&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=3)
-
 </div>
