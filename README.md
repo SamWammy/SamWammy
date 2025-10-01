@@ -2,7 +2,7 @@
 
 
  🌟 **Welcome to my page!**  
- Let's connect, feel free to reach out using the links below <br> 
+ Let's connect, feel free to reach out using the links below. <br> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammy-algharazi-386493332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Sainfo740@gmail.com) 
 
 ---
